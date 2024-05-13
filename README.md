@@ -2,7 +2,7 @@
 <H3> NAME : Aadheeshwar A </H3>
 <H3> REGISTER NUMBER : 212221230001 </H3>
 <H3>EXPERIMENT NO : 06 </H3>
-<H3>DATE  : 23.04.2024 </H3>
+<H3>DATE  : 22.04.2024 </H3>
 
 ## AIM: 
 To perform Parts of speech identification and Synonym using Natural Language Processing (NLP) techniques.
